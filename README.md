@@ -9,7 +9,7 @@
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd ember-invoice-manager`
+* `cd invoice-manager`
 * `npm install`
 
 ## Running / Development
